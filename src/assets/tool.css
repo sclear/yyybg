@@ -1,0 +1,53 @@
+.fl{
+    float: left;
+}
+.upload {
+    padding: 4px 10px;
+    height: 20px;
+    line-height: 20px;
+    position: relative;
+    border: 1px solid rgba(207, 201, 201, 0.527);
+    text-decoration: none;
+    color: #666;
+    float: left;
+    overflow: hidden;
+}
+.change {
+    position: absolute;
+    overflow: hidden;
+    right: 0;
+    top: 0;
+    opacity: 0;
+}
+
+.prizemodel{
+    font-size: 12px;
+}
+.writeRight {
+    text-align: right;
+    line-height: 40px;
+    margin-right: 25px;
+}
+.fileImg {
+    display: block;
+}
+.previewImg {
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 10px;
+    float: left;
+}
+.linheight{
+     line-height: 32px;
+}
+.textRight {
+    text-align: right;
+    margin-right: 25px;
+    line-height: 18px;
+}
+.el-row {
+    margin-top: 10px;
+}
+.mt30 {
+    margin: 30px auto;
+}
